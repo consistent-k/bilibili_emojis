@@ -1,0 +1,17 @@
+{
+  "name": "bilibili_emojis",
+  "version": "1.0.0",
+  "description": "B站表情包",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dayjs": "^1.11.0",
+    "lodash": "^4.17.21"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
